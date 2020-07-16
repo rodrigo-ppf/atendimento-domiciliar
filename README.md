@@ -1,2 +1,2 @@
-# atendimento-domiciliar
+# Atendimento-domiciliar
 Este projeto tem como intuito praticar com as tecnologias de NodeJs, Angular 8 e Flutter.   O objetivo do app é dar visibilidade da evolução de um idoso para a família, que está sob cuidados de um enfermeiro ou técnico. Além da família, a equipe técnica e administrativa que é responsável por repor material, também terá visibilidade. Outro ponto a ser desenvolvido é a marcação de chegada e saída do profissional no domicílio do cliente.
